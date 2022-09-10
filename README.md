@@ -1,2 +1,2 @@
-# SQL---Haccerrank (BASIC SELECT)
+# SQL---Haccerrank(BASIC SELECT)
 
